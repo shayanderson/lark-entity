@@ -10,7 +10,7 @@
 		}
 	],
 	"require": {
-		"lark/framework": "^0.25.0"
+		"lark/framework": "^0.26.0"
 	},
 	"autoload": {
 		"psr-4": {
