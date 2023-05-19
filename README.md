@@ -39,3 +39,5 @@ echo $user->location->address; // 101 main
 // get as array
 $userArr = $user->toArray(); // [name => Bob, ...]
 ```
+
+View the `tests/entity.php` file for more examples.
