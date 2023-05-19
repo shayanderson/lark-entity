@@ -2,6 +2,14 @@
 
 The Entity class is used to simplify creating data classes, creating class properties from an array and creating an array from class properties.
 
+Install using Composer:
+
+```
+composer require lark/entity
+```
+
+Example:
+
 ```php
 use Lark\Entity;
 
